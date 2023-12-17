@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b04388b1b2ab28c4a83c2113991e4302, type: 3}
+  m_Name: Menu Database
+  m_EditorClassIdentifier: 
+  Menus:
+  - Name: "\uB4E0\uB4E0DOUBLEX2\uC138\uD2B8"
+    Price: 7700
+    Image: {fileID: 21300000, guid: 47af6010431e7dc4797400fc1d58b7f3, type: 3}
+    Type: 0000000002000000
+  - Name: "\uB4E0\uB4E0\uD56B\uD06C\uB9AC\uC2A4\uD53C\uC138\uD2B8"
+    Price: 6900
+    Image: {fileID: 21300000, guid: 50e8949b1ed2efe4eada4493cb0f4310, type: 3}
+    Type: 0000000002000000
+  - Name: "\uB4E0\uB4E0\uC0AC\uAC01\uC0C8\uC6B0\uB354\uBE14\uBC84\uAC70\uC138\uD2B8"
+    Price: 6900
+    Image: {fileID: 21300000, guid: 332abe646346b084090da1fc236de382, type: 3}
+    Type: 0000000002000000
+  - Name: "\uB4E0\uB4E0\uB370\uB9AC\uC138\uD2B8"
+    Price: 4900
+    Image: {fileID: 21300000, guid: 675275cb019a9e94bac6defe38391920, type: 3}
+    Type: 0000000002000000
+  - Name: "\uB4E0\uB4E0\uCE58\uD0A8\uBC84\uAC70\uC138\uD2B8"
+    Price: 6900
+    Image: {fileID: 21300000, guid: 9b0011368c439584c94f10831b6256db, type: 3}
+    Type: 0000000002000000
+  - Name: "\uB4E0\uB4E0\uB354\uBE14\uBBF8\uB77C\uD0742\uC138\uD2B8"
+    Price: 7700
+    Image: {fileID: 21300000, guid: 1a0029f51e5da2c4cb618dcdfc953dcf, type: 3}
+    Type: 0000000002000000
+  - Name: "\uAE61\uB3FC\uD6C4\uB3FC\uC9C0\uD6C4\uB77C\uC774\uB4DC"
+    Price: 6500
+    Image: {fileID: 21300000, guid: e6bc5497d26d90d4a98d3a63df2133c4, type: 3}
+    Type: 0100000003000000
+  - Name: "\uAE61\uB3FC\uD6C4\uB3FC\uC9C0\uD6C4\uB77C\uC774\uB4DC\uCF64\uBCF4"
+    Price: 7500
+    Image: {fileID: 21300000, guid: 88361a8ebdd9c734faec3bf97920986b, type: 3}
+    Type: 0100000003000000
+  - Name: "\uCE90\uBAA8\uB9C8\uC77C\uD2F0"
+    Price: 2000
+    Image: {fileID: 21300000, guid: baf73eda68f2a9144bd09368a72c3a6e, type: 3}
+    Type: 0100000003000000
+  - Name: "\uC560\uD50C\uCE90\uBAA8\uB9C8\uC77C\uD2F0"
+    Price: 2700
+    Image: {fileID: 21300000, guid: c89e7a1b1ae304c47802f2dedd409d87, type: 3}
+    Type: 0100000003000000
+  - Name: "\uC0C8\uC6B0\uBCA0\uC774\uCEE8"
+    Price: 5800
+    Image: {fileID: 21300000, guid: 15b0f96a8d69e5140a0b9cdc0beb0e06, type: 3}
+    Type: 0100000002000000
+  - Name: "\uBD88\uACE0\uAE30\uBCA0\uC774\uCEE8"
+    Price: 5800
+    Image: {fileID: 21300000, guid: 851369bd46b07be49ba71330455e012f, type: 3}
+    Type: 02000000
+  - Name: "\uB354\uBE14\uD55C\uC6B0\uBD88\uACE0\uAE30"
+    Price: 12400
+    Image: {fileID: 21300000, guid: e9bb351ca81c8664e8f00cb526af6acb, type: 3}
+    Type: 02000000
+  - Name: "\uD55C\uC6B0\uBD88\uACE0\uAE30"
+    Price: 8400
+    Image: {fileID: 21300000, guid: a5c9f3ede61ce164d81c382f3aa393f3, type: 3}
+    Type: 02000000
+  - Name: "\uBAA8\uC9DC\uB7A0\uB77C\uC778\uB354\uBC84\uAC70\uBCA0\uC774\uCEE8"
+    Price: 7400
+    Image: {fileID: 21300000, guid: c6c981714b6dc964dad8194517e2442e, type: 3}
+    Type: 02000000
+  - Name: "\uBE45\uBD88"
+    Price: 7100
+    Image: {fileID: 21300000, guid: 280e3d6a650379a49a48d4bded52b317, type: 3}
+    Type: 02000000
+  - Name: DOUBLEX2
+    Price: 6800
+    Image: {fileID: 21300000, guid: 70b73018524215a4ab0f8844ddeb79b4, type: 3}
+    Type: 02000000
+  - Name: "\uB354\uBE14\uB9AC\uC544\uBBF8\uB77C\uD0742"
+    Price: 6700
+    Image: {fileID: 21300000, guid: 05f6517c2c8685640924139c8789fec4, type: 3}
+    Type: 02000000
+  - Name: "\uD3EC\uD14C\uC774\uD1A0"
+    Price: 1800
+    Image: {fileID: 21300000, guid: 85c5940f8f9cc3245a7f6e1b3741cbdd, type: 3}
+    Type: 03000000
+  - Name: "\uD3EC\uD14C\uC774\uD1A0(L)"
+    Price: 2200
+    Image: {fileID: 21300000, guid: 6ba3d0872bc7d774aad1ec75b788ed33, type: 3}
+    Type: 03000000
+  - Name: "\uC591\uB150\uAC10\uC790"
+    Price: 2300
+    Image: {fileID: 21300000, guid: dddbe27db191ea94b9e7cc7d49e8ec1d, type: 3}
+    Type: 03000000
+  - Name: "\uCE58\uC988\uC2A4\uD2F1"
+    Price: 2400
+    Image: {fileID: 21300000, guid: 939834d11e4cf2340907f1c4af2aa54b, type: 3}
+    Type: 03000000
+  - Name: "\uB871\uCE58\uC988\uC2A4\uD2F1"
+    Price: 2000
+    Image: {fileID: 21300000, guid: b356ed0ddddd8fa4ca661dcaf78488d2, type: 3}
+    Type: 03000000
+  - Name: "\uD3EC\uD14C\uC774\uD1A0"
+    Price: 0
+    Image: {fileID: 21300000, guid: 85c5940f8f9cc3245a7f6e1b3741cbdd, type: 3}
+    Type: 04000000
+  - Name: "\uCE58\uC988\uC2A4\uD2F1"
+    Price: 600
+    Image: {fileID: 21300000, guid: 939834d11e4cf2340907f1c4af2aa54b, type: 3}
+    Type: 04000000
+  - Name: "\uB871\uCE58\uC988\uC2A4\uD2F1"
+    Price: 200
+    Image: {fileID: 21300000, guid: b356ed0ddddd8fa4ca661dcaf78488d2, type: 3}
+    Type: 04000000
+  - Name: "\uC591\uB150\uAC10\uC790"
+    Price: 500
+    Image: {fileID: 21300000, guid: dddbe27db191ea94b9e7cc7d49e8ec1d, type: 3}
+    Type: 04000000
+  - Name: "\uD3EC\uD14C\uC774\uD1A0(L)"
+    Price: 400
+    Image: {fileID: 21300000, guid: 6ba3d0872bc7d774aad1ec75b788ed33, type: 3}
+    Type: 04000000
+  - Name: "\uCF5C\uB77C"
+    Price: 0
+    Image: {fileID: 21300000, guid: 2ccc5760f484e1a4f9091645f14b07ba, type: 3}
+    Type: 05000000
+  - Name: "\uC0AC\uC774\uB2E4"
+    Price: 0
+    Image: {fileID: 21300000, guid: f1b2cacfb268f52439d28d7a02218aa4, type: 3}
+    Type: 05000000
+  - Name: "\uC81C\uB85C\uC288\uAC70\uCF5C\uB77C"
+    Price: 0
+    Image: {fileID: 21300000, guid: 2337241127869464ab23d93a407ae04d, type: 3}
+    Type: 05000000
+  - Name: "\uCF5C\uB77C_(L\uB77C\uC9C0)"
+    Price: 200
+    Image: {fileID: 21300000, guid: 2ccc5760f484e1a4f9091645f14b07ba, type: 3}
+    Type: 05000000
+  - Name: "\uC0AC\uC774\uB2E4_(L\uB77C\uC9C0)"
+    Price: 200
+    Image: {fileID: 21300000, guid: f1b2cacfb268f52439d28d7a02218aa4, type: 3}
+    Type: 05000000
+  - Name: "\uC81C\uB85C\uC288\uAC70\uCF5C\uB77C_(L\uB77C\uC9C0)"
+    Price: 200
+    Image: {fileID: 21300000, guid: 2337241127869464ab23d93a407ae04d, type: 3}
+    Type: 05000000
+  - Name: "\uCE90\uBAA8\uB9C8\uC77C \uD2F0"
+    Price: 0
+    Image: {fileID: 21300000, guid: baf73eda68f2a9144bd09368a72c3a6e, type: 3}
+    Type: 05000000
+  - Name: "\uC560\uD50C \uCE90\uBAA8\uB9C8\uC77C \uD2F0"
+    Price: 700
+    Image: {fileID: 21300000, guid: c89e7a1b1ae304c47802f2dedd409d87, type: 3}
+    Type: 05000000
